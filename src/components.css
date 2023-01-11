@@ -1,0 +1,64 @@
+.nav {
+    background-color: #F55A5A;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.nav--logo {
+    width: 55px;
+}
+
+.nav--text {
+    font-size: 25px;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+.card--ext {
+    display: flex;
+}
+
+.card--int {
+    margin-left: 10px;
+}
+
+.card--image {
+    width: 212.5px;
+    height: 285.6px;
+    border-radius: 10px;
+}
+
+.card--loc {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.location {
+    margin: 0px;
+    font-family: 'Inter';
+    font-weight: 100;
+}
+
+.duration {
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.info {
+    margin-top: 5px;
+}
+
+.map {
+    color: #918E9B;
+    font-size: 13px;
+}
+
+.card {
+    margin: 30px;
+}
